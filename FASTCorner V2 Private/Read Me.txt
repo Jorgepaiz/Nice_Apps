@@ -1,0 +1,40 @@
+Read Me About FAST Corner
+========================
+1.0
+
+FAST Corner is an iPhone port of Edward Rosten's FAST Corner Detection algorithm.
+
+All algorithmic credits go to Ed, who's been very kind and expressed real interest in
+seeing this project run.
+
+More on FAST Corner Detection - http://mi.eng.cam.ac.uk/~er258/work/fast.html
+
+
+The algorithm was ported to the iPhone by Success Software Solutions' Labs team. We 
+used Ed's C library AS-IS (thanks Ed!) and threw in some gui and video capabilities.
+
+More on Success Labs - http://www.hatzlaha.co.il/150842/Portfolio (we are 
+stationed in Israel. "hatzlaha" means success :)  ).
+
+
+Please note that this is version 1.0 with several improvements still due. Generally 
+these deal with:
+* better visualization code in terms of FPS (the current is very costly)
+* better frame extracting code for even more FPS
+* some drawing eye-candy like drawing lines between close points, and such.
+* Share on Facebook ;-)
+
+we will discuss these in further detail on our forums:
+http://www.hatzlaha.co.il/site/detail/forum/forum.asp?forum_id=19952&depart_id=150842
+
+
+Enjoy and feel free to use. It would be kind to mention us if you do, but as you wish.
+
+For comments and questions either try the forums mentioned above, or our contact
+form:
+http://www.hatzlaha.co.il/150842/Contact%2DUs
+
+
+
+-- Success Labs --
+    -- 2010 --
